@@ -18,4 +18,4 @@ Afterwards, open bash, locate the destinated file with 'cd', and use git clone o
 git clone https://github.com/aanassor1/Student-to-Project-Allocator.git
 ```
 
-Then, compile the C++ files and then run the exe.
+Then, use the makefile to compile the C++ files and then run the .exe  that is created.
