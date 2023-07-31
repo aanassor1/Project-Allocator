@@ -1,4 +1,4 @@
-# Project to Student Allocator
+# Student to Project Allocator
 
 
 ## Author
