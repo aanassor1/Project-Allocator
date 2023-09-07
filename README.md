@@ -10,11 +10,11 @@ Abdul-Aziz Nassor
 This is a simple application that when given a list of projects, students, project supervisors, and student's preferences, it will allocate projects to students depending on preferences and availablity.
 
 ## What I learnt
-* C++
-* Classes
+* Classes and objects
 * Array Manipulation
 * Data Manipulation
-* Algorithms
+* Data structures
+* Algorithm Design
   
 ## Installation
 
